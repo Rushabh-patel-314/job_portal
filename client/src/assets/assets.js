@@ -779,7 +779,7 @@ export const jobsData = [
             <li>Strong leadership and project management skills.</li>
         </ol>`,
         salary: 99000,
-        date: 1729681667114,
+        date: 1729681667114, 
         category: "Marketing",
     },
     {
